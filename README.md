@@ -8,13 +8,18 @@ Make sure to install node before running
 npm i -g webpack
 npm i -g webpack-dev-server
 ```
-2) Not go to project root and run npm install to install all dependencies
+2)Now clone the git repo
 ```
+git clone https://github.com/vemparala/drivenowtask.git
+```
+3) Now go to project root and run npm install to install all dependencies
+```
+cd drivenowtask
 npm install
 
 ```
 
-3)Now to start run
+4)Now to start run
 ```
 npm start
 ```
