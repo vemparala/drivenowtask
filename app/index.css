@@ -1,0 +1,43 @@
+
+html,
+body {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.navbar-header a{
+    color: #fff;
+    font-size: 40px;
+}
+
+.section {
+    height: 100%;
+    padding-top: 150px;
+}
+
+.full {
+    height: 100%;
+    width: 100%;
+}
+
+.bg-main {
+    opacity: 0.5;
+    background-color: #0000ff;
+}
+
+.nav a {
+    color: #fff !important;
+}
+.footer {
+    background-color: #0000ff;
+    color: #fff;
+    opacity: 0.6;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 300px;
+}
+
+.pull-right {
+    float: right !important;
+}

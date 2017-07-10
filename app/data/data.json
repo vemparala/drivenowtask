@@ -1,0 +1,49 @@
+[
+    {
+        "header": "Drive Now Premium car sharing",
+        "text": ["DriveNow Carsharing ist das Mobilitätskonzept der Zukunft von BMW i", 
+        "MINI und Sixt, mit dem du günstig Auto fahren und gleichzeitig flexibel bleiben kannst.",
+        "Mit einer Flotte bestehend aus topaktuellen BMW und MINI Modellen bieten wir dir absolutes Premium-Carsharing.",
+       " Du bist bei uns in Sachen Anmietung und Abgabe nicht an feste Stationen gebunden, sondern kannst unsere ",
+        "DriveNow Autos im jeweiligen Geschäftsgebiet spontan anmieten und deine Fahrt dort auf allen öffentlichen ",
+        "Parkflächen kostenfrei beenden. Die Abrechnung erfolgt minutengenau, während Tanken oder Laden, Parktickets,", 
+        "Versicherung und Kfz-Steuer inklusive sind",
+        "DriveNow Carsharing ist in"],
+        "imagePosition": "right",
+        "imgUrl": "https://content.drive-now.com/sites/default/files/carsharing_drivenow-international-i3_0.jpg"
+    },
+    {
+        "header": "Our partners",
+        "text": ["I did this task using React and Redux.", 
+        "I have been using react for sometime and fell in love with it",
+        "React is quite awesome when used with redux it power is unlimited",
+        "React uses JSX style syntax",
+        "It also uses component model structure which quite popular now"],
+        "imagePosition": "left",
+        "imgUrl": "http://auto.ferrari.com/en_US/wp-content/uploads/sites/7/2016/09/laferrari-aperta-featured.jpg"
+    },
+    {
+        "header": "Sixt",
+         "text": ["DriveNow Carsharing ist das Mobilitätskonzept der Zukunft von BMW i", 
+        "MINI und Sixt, mit dem du günstig Auto fahren und gleichzeitig flexibel bleiben kannst.",
+        "Mit einer Flotte bestehend aus topaktuellen BMW und MINI Modellen bieten wir dir absolutes Premium-Carsharing.",
+       " Du bist bei uns in Sachen Anmietung und Abgabe nicht an feste Stationen gebunden, sondern kannst unsere ",
+        "DriveNow Autos im jeweiligen Geschäftsgebiet spontan anmieten und deine Fahrt dort auf allen öffentlichen ",
+        "Parkflächen kostenfrei beenden. Die Abrechnung erfolgt minutengenau, während Tanken oder Laden, Parktickets,", 
+        "Versicherung und Kfz-Steuer inklusive sind",
+        "DriveNow Carsharing ist in"],
+        "imagePosition": "right",
+        "imgUrl": "https://media.cmcdn.net/3e85989eea1f5bf27e87/18945601/641x477.jpeg"
+    },
+    {
+         "header": "BMW",
+            
+         "text": ["BMW was established as a business entity following a restructuring ", 
+            "of the Rapp Motorenwerke aircraft manufacturing firm in 1912 named Aerowerke Gustav Otto..",
+            "After the end of World War I in 1918, BMW was forced to cease",
+            " aircraft-engine production by the terms of the Versailles Armistice Treaty.",
+            "The company consequently shifted to motorcycle production as the restrictions of",
+            "the treaty started to be lifted in 1923,[6] followed by automobiles in 1928" 
+        ]
+    }
+]
